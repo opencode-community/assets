@@ -57,12 +57,12 @@ Lastly, we request the college to kindly allow us nominal fundings for any promo
 
 1. #### Contributions to open source projects by attendees
 
-       Monthly DevSprints can be a good place where attendees are mentored on specific open source projects so they can resolve any issues in the software itself.
-       Along with the experience of working remotely, they will also be able to learn about the inner workings of the softwares they use on various projects.
+    Monthly DevSprints can be a good place where attendees are mentored on specific open source projects so they can resolve any issues in the software itself.
+    Along with the experience of working remotely, they will also be able to learn about the inner workings of the softwares they use on various projects.
 
 2. #### Personal projects made with Open Source technologies 
     
-       Students after learning about open source technologies can make good projects with the guidance of their mentors.
+    Students after learning about open source technologies can make good projects with the guidance of their mentors.
 
 ### Proposed Members of the community
 
