@@ -1,4 +1,4 @@
-![logo](../Logo/logo.jpg)
+![logo](https://opencode-mait.github.io/assets/Logo/logo.jpg)
 
 ## OpenCode-MAIT
 
