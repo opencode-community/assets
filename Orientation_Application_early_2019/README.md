@@ -23,9 +23,7 @@ We wish to organise the Orientation event for our community **OpenCode - MAIT** 
 For the same, we kindly request you to grant us permission for holding the event in **Room 121**, for the time period of **1 hour**. Also, we need the projector for the stipulated time period.
 
 Sincerely,
-<p>
+
 Piyush Aggarwal
-<br><font size = 2>
+<br>
 Coordinator, OpenCode - MAIT
-</font>
-</p>
